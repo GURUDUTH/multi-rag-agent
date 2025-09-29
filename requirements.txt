@@ -1,0 +1,14 @@
+# Requirements for Agentic RAG System
+# Add your dependencies here as you build the system
+
+# Example dependencies that might be needed:
+# langchain
+# openai
+# chromadb
+# faiss-cpu
+# sentence-transformers
+# pandas
+# numpy
+# streamlit
+# fastapi
+# uvicorn
